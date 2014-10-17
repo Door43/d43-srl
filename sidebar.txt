@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[srl:home|Door43 (srl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-srl|d43-srl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-srl/archive/master.zip|d43-srl.zip]]
+
+**Recent Changes**
+{{changes>ns = srl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/srl|Ethnologue data]]
+
